@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-11-10",
+  "assets": [
+    {
+      "file": "public/images/logos/bbc.png",
+      "source": "https://www.jodi365.com/assets/images/static/bbc-logo.png",
+      "dimensions": [
+        174,
+        50
+      ],
+      "display_note": "Black BBC block logo; real original asset."
+    },
+    {
+      "file": "public/images/logos/the-hindu.png",
+      "source": "https://www.jodi365.com/assets/images/static/the-hindu-logo.png",
+      "dimensions": [
+        153,
+        65
+      ],
+      "display_note": "Blue masthead and elephant crest. Preserve aspect ratio."
+    },
+    {
+      "file": "public/images/logos/yourstory.png",
+      "source": "https://www.jodi365.com/assets/images/static/yourstory-logo.png",
+      "dimensions": [
+        90,
+        70
+      ],
+      "display_note": "Original red two-line wordmark, native 90px width."
+    },
+    {
+      "file": "public/images/logos/times-of-india.png",
+      "source": "https://static.toiimg.com/photo/111986287.cms",
+      "source_page": "https://timesofindia.indiatimes.com/",
+      "dimensions": [
+        889,
+        281
+      ],
+      "display_note": "Full masthead sourced from actual public footer data-src; transparency supported."
+    },
+    {
+      "file": "public/images/logos/chicago-booth.png",
+      "source": "https://www.jodi365.com/assets/images/static/chicago-booth-logo.png",
+      "dimensions": [
+        226,
+        45
+      ],
+      "display_note": "Original Chicago Booth horizontal gray/maroon mark."
+    },
+    {
+      "file": "public/images/logos/iit-madras.png",
+      "source": "https://www.iitm.ac.in/themes/custom/iitm/assets/images/iitm_logo.png",
+      "source_page": "https://www.iitm.ac.in/",
+      "dimensions": [
+        272,
+        60
+      ],
+      "display_note": "Original horizontal IIT Madras emblem and wordmark. Use 200+px slot, not square crop."
+    },
+    {
+      "file": "public/images/logos/iowa.png",
+      "source": "https://brand.uiowa.edu/sites/brand.uiowa.edu/files/2025-01/IOWA-BlockIOWALogo.zip",
+      "source_page": "https://brand.uiowa.edu/logo",
+      "archive_member": "IOWA-BlockIOWALogo-EPS-PNG/Block-IOWA-BLACK.png",
+      "dimensions": [
+        1200,
+        600
+      ],
+      "display_note": "Official black block IOWA logo, transparent. Brand minimum digital width85px; preserve proportion and black."
+    },
+    {
+      "file": "public/images/logos/michigan.png",
+      "source": "https://rna.umich.edu/wp-content/uploads/2024/07/block_m-hex.png",
+      "source_page": "https://rna.umich.edu/resources/center-for-rna-biomedicine-brand-downloads/",
+      "dimensions": [
+        1161,
+        830
+      ],
+      "display_note": "Official maize Block M, transparent. Preserve proportions/color."
+    }
+  ],
+  "articles": [
+    {
+      "publication": "YourStory",
+      "title": "The accidental matchmaker: how a PhD in hydrodynamics built an elite matrimonial service",
+      "url": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service",
+      "date": "2026-06-03",
+      "author": "Jarshad NK",
+      "summary": "A profile tracing Anil’s research career, the founding of Jodi365, and its move toward personalised matchmaking."
+    },
+    {
+      "publication": "BBC Culture",
+      "title": "Indian Matchmaking: The reality show that's divided viewers",
+      "url": "https://www.bbc.com/culture/article/20200806-indian-matchmaking-the-reality-show-that-s-divided-viewers",
+      "date": "2020-08-10",
+      "author": "Charukesi Ramadurai",
+      "summary": "Anil contributes expert commentary on modern Indian matchmaking.",
+      "note": "Date displayed on live BBC page is 10 August2020 despite URL containing20200806. This is commentary, not endorsement."
+    },
+    {
+      "publication": "Chicago Booth Magazine",
+      "title": "Inspirations at Work and Play",
+      "url": "https://www.chicagobooth.edu/magazine/entrepreneurs-inspirations-at-work-and-play",
+      "date": "2021-10-22",
+      "author": "Madhur Singh",
+      "summary": "An alumni profile exploring the founder’s interests, influences, and outlook on work and life."
+    },
+    {
+      "publication": "The Hindu",
+      "title": "Giving a 'cool' twist to arranged marriages",
+      "url": "https://www.thehindu.com/news/cities/chennai/giving-a-cool-twist-to-arranged-marriages/article7387919.ece",
+      "date_label": "July2015",
+      "summary": "A report on Jodi365’s approach to arranged marriage.",
+      "note": "Exact title/month verified against current official Jodi365 press-page source bundle; direct Hindu fetch unavailable."
+    },
+    {
+      "publication": "The Times of India",
+      "title": "Acting is still not on the radar, but never say never: S. Anil Kumar",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/acting-is-still-not-on-the-radar-but-never-say-never-s-anil-kumar/articleshow/129495256.cms",
+      "date_label": "March2026",
+      "summary": "The founder discusses his announced cameo in Coco & Nut.",
+      "note": "Announced role; no release date asserted."
+    }
+  ],
+  "verification": "All downloaded files inspected with view_image; no logos hand-drawn or approximated. Public logos indicate actual media coverage or educational affiliation, not institutional endorsement."
+}

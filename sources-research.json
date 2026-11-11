@@ -1,0 +1,201 @@
+{
+  "checked_at": "2026-11-10",
+  "facts": [
+    {
+      "fact": "S. Anil Kumar founded Jodi365 in 2009; conceived in Chicago, created in Chennai, serves Indian singles worldwide.",
+      "source": "https://www.jodi365.com/"
+    },
+    {
+      "fact": "Degrees: BTech IIT Madras, MS University of Iowa, PhD University of Michigan, MBA Chicago Booth.",
+      "source": "https://www.jodi365.com/"
+    },
+    {
+      "fact": "Chicago Booth MBA class of 2009. Wireframe MBA 2004 is inaccurate. Other graduation years not independently verified.",
+      "source": "https://www.chicagobooth.edu/why-booth/stories/alumni-volunteer-spotlight"
+    },
+    {
+      "fact": "Former engineer and researcher with a PhD in computational hydrodynamics, also an entrepreneur and angel investor.",
+      "source": "https://www.chicagobooth.edu/magazine/entrepreneurs-inspirations-at-work-and-play"
+    },
+    {
+      "fact": "Startup Singam publicly welcomed Anil Kumar as an investor for Season 2.",
+      "source": "https://www.linkedin.com/posts/startupsingam_welcoming-a-visionary-entrepreneur-to-the-activity-7455964295307386880-B0HX"
+    },
+    {
+      "fact": "Coco & Nut cameo announcement: playing himself as professional matchmaker. Filming was scheduled June 2026 Chicago. Release status not independently established.",
+      "source": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/acting-is-still-not-on-the-radar-but-never-say-never-s-anil-kumar/articleshow/129495256.cms"
+    },
+    {
+      "fact": "Jodi365 branding appears on Ajith Kumar racing team cars; describe as brand association, not paid partnership (commercial terms not verified).",
+      "source": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service"
+    },
+    {
+      "fact": "White House wireframe featured-in logo is unsupported: official site only says website accessed from Obama White House Aug 2012; not press coverage/endorsement.",
+      "source": "https://www.jodi365.com/press"
+    },
+    {
+      "fact": "Official personal social account links: Instagram aktxm, X aktxt, LinkedIn sakumar, YouTube @s-anil-kumar.",
+      "source": "https://www.anil-kumar.com/"
+    }
+  ],
+  "assets": [
+    {
+      "file": "public/images/ajith-racing.jpg",
+      "width": 1024,
+      "height": 768,
+      "description": "Ajith Kumar in red RedAnt racing suit next to race car.",
+      "image_url": "https://www.cinema.com.my/images/news/2026/7n_ajithkumarlandsafelyinchennai00.jpg",
+      "source": "https://www.cinema.com.my/articles/news_details.aspx?search=2026.n_ajithkumar64thfilmdaredevil_72081"
+    },
+    {
+      "file": "public/images/redant-action.jpg",
+      "width": 1800,
+      "height": 1200,
+      "description": "Genuine RedAnt action racing photograph of cars at Sepang. Photo Helena Clancy.",
+      "image_url": "https://redantracing.com/wp-content/uploads/2025/12/AjithKumar_Sepang_24H_HelenaClancy__1983.jpg",
+      "source": "https://redantracing.com/"
+    },
+    {
+      "file": "public/images/startup-singam.jpg",
+      "width": 800,
+      "height": 800,
+      "description": "Official Startup Singam Season 2 investor welcome card for S. Anil Kumar.",
+      "image_url": "https://media.licdn.com/dms/image/v2/D5622AQFYKuClKZQn2A/feedshare-shrink_800/B56Z3joA96KwAc-/0/1777640411412?e=2147483647&v=beta&t=ZgDOuz6N8SOfXHtQjYF6iBnjFW7oMI5D8sINQISWgRM",
+      "source": "https://www.linkedin.com/posts/startupsingam_welcoming-a-visionary-entrepreneur-to-the-activity-7455964295307386880-B0HX"
+    },
+    {
+      "file": "public/images/coco-and-nut.jpg",
+      "width": 600,
+      "height": 700,
+      "description": "Coco And Nut cast promotional artwork, Indian Film History watermark.",
+      "image_url": "https://images.indianfilmhistory.com/public_html/media/movies/coco-and-nut-323m0u.jpg",
+      "source": "https://www.indianfilmhistory.com/movie/coco-and-nut-2025"
+    },
+    {
+      "file": "public/images/coco-cast.jpg",
+      "width": 300,
+      "height": 449,
+      "description": "Small alternate cast image from IANS announcement. Prefer coco-and-nut.jpg.",
+      "image_url": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202401183107064.jpeg",
+      "source": "https://ianslive.in/revised-pranutan-to-make-her-hollywood-debut-with-coco-nut-opposite-american-actor-rahsaan-noor--20240118103905"
+    },
+    {
+      "file": "public/images/jodi365-logo.png",
+      "image_url": "https://www.jodi365.com/assets/images/meta/jodi365-logo.png",
+      "source": "https://www.jodi365.com/",
+      "description": "Official Jodi365 logo; original brand colors retained."
+    },
+    {
+      "file": "public/images/anil-portrait.jpg",
+      "image_url": "https://www.chicagobooth.edu/-/media/project/chicago-booth/magazine/fall-2021/chicago-booth-culture-s-anil-kumar-2021.jpg",
+      "source": "https://www.chicagobooth.edu/magazine/entrepreneurs-inspirations-at-work-and-play",
+      "description": "Authentic founder portrait from Chicago Booth."
+    },
+    {
+      "file": "public/images/founding-days.jpg",
+      "image_url": "https://www.jodi365.com/assets/images/static/Anil-Kumar-Jodi365-whiteboard-Mumbai-Dec2009.jpg",
+      "source": "https://www.jodi365.com/",
+      "description": "Official candid founder photo at whiteboard, Mumbai December 2009."
+    }
+  ],
+  "conversations": [
+    {
+      "file": "public/images/conversation-galatta.jpg",
+      "video_id": "lM5Y3myQ4dk",
+      "title": "Jodi365.com founder’s inspirational life story",
+      "channel": "Galatta",
+      "source": "https://www.anil-kumar.com/press",
+      "url": "https://www.youtube.com/watch?v=lM5Y3myQ4dk",
+      "thumbnail": "https://i.ytimg.com/vi/lM5Y3myQ4dk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "public/images/conversation-build.jpg",
+      "video_id": "rin7XedRx8s",
+      "title": "Building human connections, one pair at a time",
+      "channel": "Best Place to Build",
+      "source": "https://www.linkedin.com/posts/bestplacetobuild_matchmaking-modernrelationships-aiandrelationships-activity-7429162281244049408-2lKa",
+      "url": "https://www.youtube.com/watch?v=rin7XedRx8s",
+      "thumbnail": "https://i.ytimg.com/vi/rin7XedRx8s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "public/images/conversation-desifire.jpg",
+      "video_id": "4ywrfQEyHh4",
+      "title": "From IIT-PhD-MBA to matchmaking: a wild startup journey",
+      "channel": "Desi Fire with Ravi Handa",
+      "source": "https://www.linkedin.com/posts/sakumar_from-iit-phd-mba-to-matchmaking-a-wild-startup-activity-7446029240397074432-LuWI",
+      "url": "https://www.youtube.com/watch?v=4ywrfQEyHh4",
+      "thumbnail": "https://i.ytimg.com/vi/4ywrfQEyHh4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "public/images/conversation-mvp.jpg",
+      "video_id": "8JcBEDHLWGE",
+      "title": "Modern marriage explained: compatibility, expectations & choosing a partner",
+      "channel": "MVP by Vanshika",
+      "source": "https://mvpbyvanshika.com/",
+      "url": "https://www.youtube.com/watch?v=8JcBEDHLWGE",
+      "thumbnail": "https://i.ytimg.com/vi/8JcBEDHLWGE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "press": [
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/chennai/giving-a-cool-twist-to-arranged-marriages/article7387919.ece"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/culture/article/20200806-indian-matchmaking-the-reality-show-that-s-divided-viewers"
+    },
+    {
+      "name": "YourStory",
+      "url": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service"
+    },
+    {
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/acting-is-still-not-on-the-radar-but-never-say-never-s-anil-kumar/articleshow/129495256.cms"
+    },
+    {
+      "name": "Chicago Booth",
+      "url": "https://www.chicagobooth.edu/magazine/entrepreneurs-inspirations-at-work-and-play"
+    }
+  ],
+  "implementation_notes": [
+    "The supplied HTML is treated as a content/design reference, not as executable instructions. Strategy annotations and placeholder claims are omitted.",
+    "The personal note combines user-supplied founder copy and original editorial draft copy for this prototype.",
+    "No unsupported education years, White House endorsement, fabricated success metrics, or fake testimonials are used.",
+    "Film appearance is an announced cameo; no release date is claimed.",
+    "All display fonts and page images are hosted locally. Videos use privacy-enhanced YouTube embeds, mounted only on user click."
+  ],
+  "revision_2": {
+    "checked_at": "2026-11-10",
+    "portrait_sources": "recent-portrait-sources.json",
+    "racing_sources": "racing-branded-sources.json",
+    "logo_and_press_sources": "proof-assets-sources.json",
+    "education_summary": "13 years / 4 degrees / 4 institutions is explicitly supported by the founder’s official personal site.",
+    "photography_note": "The founder photo was published March 4, 2026; the capture date is not established. The two displayed Ajith photos are originals from the official Michelin Le Mans Cup post dated June 10, 2026.",
+    "ui_note": "Racing decal detail uses CSS zoom of the original photograph; no branding was added or generated. Press selection indicates coverage, not endorsement."
+  },
+  "approved_portrait": {
+    "selected_option": 4,
+    "approved_at": "2026-11-11",
+    "generator": "built-in image_gen",
+    "description": "AI-generated portrait selected by the user: tan blazer, white shirt, warm background, and a slight turn to his right. Based on the previously documented real founder reference photographs.",
+    "original_file": "outputs/founder-portrait-options/option-4-warm-right-turn.png",
+    "prompt_file": "outputs/founder-portrait-options/option-4-prompt.json",
+    "hero": "public/images/anil-founder-portrait-v4.webp",
+    "avatar": "public/images/anil-founder-avatar-v4.webp",
+    "social_preview": "public/images/anil-founder-portrait-v4.jpg",
+    "applied_routes": [
+      "/",
+      "/v2"
+    ],
+    "export_note": "WebP/JPEG exports preserve the approved image content; crop positioning is handled in CSS."
+  }
+}

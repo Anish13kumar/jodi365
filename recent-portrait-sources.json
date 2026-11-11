@@ -1,0 +1,85 @@
+{
+  "checked_at": "2026-11-10",
+  "recommended_hero": {
+    "file": "public/images/anil-interview-march-2026.jpg",
+    "source": "https://www.puthiyathalaimurai.com/cinema/tamil-cinema-news/ajithkumar-brother-anilkumar-make-acting-debut",
+    "image_url": "https://cf-images.assettype.com/puthiyathalaimurai/2026-03-04/m0crbq9p/Screenshot-2026-03-04-133124.png?auto=format%2Ccompress&fit=max&rect=0%2C0%2C1070%2C602&w=1600",
+    "publication_date": "2026-03-04",
+    "capture_date": "Unknown; do not claim photo was captured on publication date",
+    "dimensions": [
+      1600,
+      900
+    ],
+    "description": "Authentic Anil Kumar in tan blazer and white shirt, seated mid-conversation. Identity visually checked. A substantially newer appearance than 2021 Booth portrait.",
+    "framing": "Landscape; subject head centered around x750 of1600; subject extends x260 through1130. Works rectangular; object-position 45% center for narrow crop."
+  },
+  "alternatives": [
+    {
+      "file": "public/images/anil-current-personal-site.jpg",
+      "source": "https://www.anil-kumar.com/essays",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "description": "Current personal-site OG uses short-haired thoughtful outdoor portrait, but has embedded title/role text and dark overlay. Unknown capture date; not ideal hero."
+    },
+    {
+      "file": "public/images/anil-founder-2026-video.jpg",
+      "source": "https://x.com/aktxt",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2023165532955082752/img/XTYdJTYAPb7VN2Cm.jpg",
+      "dimensions": [
+        675,
+        1200
+      ],
+      "description": "Recent public founder video thumbnail; embedded branding and text mean use only as a video/social card, not unaltered hero."
+    },
+    {
+      "file": "public/images/anil-current-official-headshot.png",
+      "source": "https://www.anil-kumar.com/",
+      "dimensions": [
+        240,
+        240
+      ],
+      "description": "Current official small headshot, too small for hero; suitable small attribution/avatar."
+    },
+    {
+      "file": "public/images/anil-yourstory-july-2026.png",
+      "source": "https://yourstory.com/tamil/phd-researcher-to-accidental-matchmaker-story-of-anil-kumar-founder-jodi365",
+      "publication_date": "2026-07-02",
+      "description": "July 2026 interview image; publication date known, capture date unknown."
+    }
+  ],
+  "education": {
+    "source": "https://www.anil-kumar.com/",
+    "thirteen_years_verified": true,
+    "exact_support": "I may have earned four degrees over 13 years",
+    "institutions_count": 4,
+    "degrees": [
+      {
+        "institution": "IIT Madras",
+        "degree": "B.Tech",
+        "discipline": "Engineering; exact BTech discipline is not stated on personal official site",
+        "recognition": "Institute Blue"
+      },
+      {
+        "institution": "University of Iowa",
+        "degree": "M.S.",
+        "discipline": "Mechanical engineering"
+      },
+      {
+        "institution": "University of Michigan",
+        "degree": "Ph.D.",
+        "discipline": "Computational hydrodynamics"
+      },
+      {
+        "institution": "Chicago Booth",
+        "degree": "MBA",
+        "discipline": "Entrepreneurship and strategic management",
+        "recognition": "KPMG Award for Leadership and Scholarship; Dean’s Award of Distinction (one of two graduating students)"
+      }
+    ],
+    "mba_class": "2009; independently verified by Chicago Booth",
+    "mba_class_source": "https://www.chicagobooth.edu/why-booth/stories/alumni-volunteer-spotlight",
+    "warning": "Other graduation years in original wireframe remain unverified; do not recreate those years."
+  }
+}

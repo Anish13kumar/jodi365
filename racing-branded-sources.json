@@ -1,0 +1,87 @@
+{
+  "checked_at": "2026-11-10",
+  "association_wording": "Brand association; do not assert payment or commercial partnership terms.",
+  "selected_assets": [
+    {
+      "file": "public/images/jodi365-racing-car.jpg",
+      "dimensions": [
+        2000,
+        2500
+      ],
+      "source": "https://x.com/LeMansCup/status/2064615469101814189",
+      "image_url": "https://pbs.twimg.com/media/HKb8vD4XQAAPeur.jpg?name=orig",
+      "publication_date": "2026-06-10",
+      "source_type": "Official Michelin Le Mans Cup account",
+      "description": "Ajith Kumar beside the number16 prototype at Circuit des24Heures. Jodi365 decals visibly printed on both front fenders and on his suit. Genuine original photo, no branding added.",
+      "visual_verification": "Inspected original image. Largest readable Jodi365 logo is above the near/right headlight, around47% image width and57% image height. Other Jodi decals visible on far-left front fender and suit.",
+      "crop_guidance": "4:3 center crop keeps Ajith and near headlight logo; use object-position50%50%. Do not cover car nose with bottom text overlays; put text below image or in separate panel."
+    },
+    {
+      "file": "public/images/ajith-jodi365-le-mans-clean.jpg",
+      "dimensions": [
+        2000,
+        2500
+      ],
+      "source": "https://x.com/LeMansCup/status/2064615469101814189",
+      "image_url": "https://pbs.twimg.com/media/HKb8vD6WoAAO9Zz.jpg?name=orig",
+      "publication_date": "2026-06-10",
+      "source_type": "Official Michelin Le Mans Cup account",
+      "description": "Smiling Ajith Kumar in red/white racing suit holding a helmet. Clear large Jodi365 logo on chest. Preferred social portrait because official primary provenance and2000px resolution.",
+      "visual_verification": "Inspected original. Jodi365 chest logo around60% image width and48% image height. Maintain chest through at least60% image height in crop.",
+      "crop_guidance": "Object-position50%35% in portrait or square. Keep image above/beside text, avoid overlays covering chest."
+    },
+    {
+      "file": "public/images/ajith-jodi365-studio.jpg",
+      "dimensions": [
+        988,
+        1134
+      ],
+      "source": "https://x.com/rameshlaus/with_replies",
+      "image_url": "https://pbs.twimg.com/media/HJQHAQ9bAAAQE9K.jpg?name=orig",
+      "publication_date": null,
+      "source_type": "Public image indexed from Ramesh Bala X feed; original publication date not established",
+      "description": "Ajith Kumar in studio racing portrait, helmet in arms. Jodi365 logo clear on chest and upper arm. Alternate to official Le Mans Cup portrait.",
+      "visual_verification": "Inspected original. Logos at about46%W/53%H(chest) and83%W/55%H(sleeve)."
+    },
+    {
+      "file": "public/images/ajith-jodi365-barcelona.jpg",
+      "dimensions": [
+        854,
+        1280
+      ],
+      "source": "https://x.com/Akracingoffl/status/2101339762263252995",
+      "image_url": "https://pbs.twimg.com/media/HSl1X3kbsAAecAn.jpg?name=orig",
+      "publication_date": "2026-09-19",
+      "source_type": "Official Ajith Kumar Racing account",
+      "description": "Ajith at Barcelona race weekend wearing black team shirt. Jodi365 readable on chest and sleeve. More recent alternative with official team provenance.",
+      "visual_verification": "Inspected original. Chest logo at~68%W/66%H, face~50%W/43%H.",
+      "crop_guidance": "Full portrait or square with object-position50%60% keeps face and logo. Image has creative motion blur in foreground."
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Founder describes Jodi365’s brand association with AK Racing.",
+      "source": "https://x.com/aktxt/status/2097562770623652047",
+      "publication_date": "2026-09-09"
+    },
+    {
+      "fact": "Founder explicitly refers to Jodi365 decals on racing team cars in June2026.",
+      "source": "https://www.dtnext.in/news/tamilnadu/ajith-kumars-brother-pens-emotional-tribute-to-mother-extends-support-to-racing-team",
+      "publication_date": "2026-06-10"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "files": [
+        "public/images/ajith-jodi365-le-mans.jpg",
+        "public/images/jodi365-racing-cockpit.jpg",
+        "public/images/jodi365-racing-brand-association.jpg"
+      ],
+      "reason": "Phone screenshots or unrelated event-screen image; not recommended for main page. Main jodi365-racing-car.jpg was replaced with clean official photo."
+    },
+    {
+      "source": "https://redantracing.com/",
+      "reason": "Generic RedAnt Sepang/2026 gallery cars often show other sponsor logos; no false Jodi365 logo claim made."
+    }
+  ]
+}
